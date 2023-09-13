@@ -6,51 +6,51 @@
 #            World
 #     d) ‘ Rohit’ s date of birth is 12\05\1999’
 
-# print("Hello Everyone !!!")
-# print("Hello\nWorld")
-# print("Hello\n\tWorld")
-# print("‘ Rohit’ s date of birth is 12\ 05\ 1999’")
+print("Hello Everyone !!!")
+print("Hello\nWorld")
+print("Hello\n\tWorld")
+print("‘ Rohit’ s date of birth is 12\ 05\ 1999’")
 
 #********************************************************************************************************
 
 # Q3) Declare a string variable called x and assign it the value “Hello”.Print out the value of x
 
-# x="“Hello”"
-# print(x)
+x="“Hello”"
+print(x)
 
 #********************************************************************************************************
 
 # Q4) Take different data types and print values using print function
 
-# a="Hi"
-# b=5.0
-# c=20
-# print(a)
-# print(b)
-# print(c)
+a="Hi"
+b=5.0
+c=20
+print(a)
+print(b)
+print(c)
 
 #**********************************************************************************************************
 
 # Q5) Take two variable a and b. Assign your first name and last name. Print your Name after adding your First name and Last name together.
 
-# a="Shashank"
-# b="Suman"
+a="Shashank"
+b="Suman"
 
-# #concatinating two strings 
-# c=a+" "+b
+#concatinating two strings 
+c=a+" "+b
 
-# #printing the result
-# print(c)
+#printing the result
+print(c)
 
 #*************************************************************************************************************
 
 # Q6) Declare three variables, consisting of your first name, your last name and Nickname. 
 #     Write a program that prints out your first name, then your nickname in parenthesis and then your lastname.
 
-# a="Shashank"
-# b="Atul"
-# C="Suman"
-# print(a+" "+"("+b+")"+" "+C)
+a="Shashank"
+b="Atul"
+C="Suman"
+print(a+" "+"("+b+")"+" "+C)
 
 #*************************************************************************************************************
 
